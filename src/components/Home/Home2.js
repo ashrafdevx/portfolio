@@ -24,7 +24,10 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple">
+                  {" "}
+                  React, Javascript, Next.js and MERN Stak.{" "}
+                </b>
               </i>
               <br />
               <br />
