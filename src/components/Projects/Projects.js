@@ -62,7 +62,7 @@ function Projects() {
               title="Appwrite"
               description="I created a responsive and user-friendly website using Appwrite as the backend-as-a-service platform. The project includes a fully integrated login and signup system, leveraging Appwrite's APIs for authentication and real-time database management."
               ghLink="https://github.com/ashrafdevx/appwrite"
-              demoLink="https://github.com/ashrafdevx/appwrite"
+              demoLink="appwrite-theta.vercel.app"
             />
           </Col>
           {/* Calender */}
