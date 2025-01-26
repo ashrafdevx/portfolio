@@ -62,7 +62,7 @@ function Projects() {
               title="Appwrite"
               description="I created a responsive and user-friendly website using Appwrite as the backend-as-a-service platform. The project includes a fully integrated login and signup system, leveraging Appwrite's APIs for authentication and real-time database management."
               ghLink="https://github.com/ashrafdevx/appwrite"
-              demoLink="appwrite-theta.vercel.app"
+              demoLink="https://appwrite-theta.vercel.app/"
             />
           </Col>
           {/* Calender */}
@@ -73,8 +73,7 @@ function Projects() {
               title="Calendar"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
               ghLink="https://github.com/ashraftech8/calendar"
-              demoLink="calendar-blush-three.vercel.app
-"
+              demoLink="https://calendar-blush-three.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
