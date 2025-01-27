@@ -82,7 +82,7 @@ function Projects() {
               imgPath={Stemsite}
               isBlog={false}
               title="StemWizard Site"
-              description="STEMWizard is an innovative software development platform built with Next.js, designed to provide users with seamless access to a variety of development courses. The website, crafted from a Figma design to Next.js, offers a modern, responsive, and user-friendly interface that highlights courses in software development, UI/UX design, and backend development. STEMWizard keeps learners up to date with the latest trends and educational resources, making it the perfect destination for aspiring developers looking to enhance their skills in today’s fast-evolving tech landscape."
+              description="STEMWizard is an innovative software development platform built with Next.js, designed to provide users with seamless access to a variety of development courses. The website, crafted from a Figma design to Next.js, offers a modern, responsive, and user-friendly interface that highlights courses in software development, UI/UX design, and backend development."
               ghLink="https://stem-gilt.vercel.app/"
               demoLink="https://stem-gilt.vercel.app/;"
             />
