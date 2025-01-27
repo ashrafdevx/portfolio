@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import Calendar from "../../Assets/Projects/Calendar.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import Stemsite from "../../Assets/Projects/Stemsite.png";
 
 function Projects() {
   return (
@@ -64,6 +65,27 @@ function Projects() {
               ghLink="https://github.com/ashrafdevx/appwrite"
               demoLink="https://github.com/ashrafdevx/appwrite"
             />
+          </Col>{" "}
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={next}
+              isBlog={false}
+              title="Nextgen Property"
+              description="The app facilitates property listings, allowing developers to create new homes and offer them to potential buyers. It also supports investment opportunities, where developers pay to list and promote their projects. This platform streamlines the process of buying, selling, and investing in real estate, ensuring a seamless experience for all users."
+              ghLink="https://www.nextgenproperties.us/"
+              demoLink="https://www.nextgenproperties.us/"
+            />
+          </Col>
+          {/* Stem */}
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Stemsite}
+              isBlog={false}
+              title="StemWizard Site"
+              description="STEMWizard is an innovative software development platform built with Next.js, designed to provide users with seamless access to a variety of development courses. The website, crafted from a Figma design to Next.js, offers a modern, responsive, and user-friendly interface that highlights courses in software development, UI/UX design, and backend development. STEMWizard keeps learners up to date with the latest trends and educational resources, making it the perfect destination for aspiring developers looking to enhance their skills in today’s fast-evolving tech landscape."
+              ghLink="https://stem-gilt.vercel.app/"
+              demoLink="https://stem-gilt.vercel.app/;"
+            />
           </Col>
           {/* Calender */}
           <Col md={4} className="project-card">
@@ -75,16 +97,6 @@ function Projects() {
               ghLink="https://github.com/ashraftech8/calendar"
               demoLink="calendar-blush-three.vercel.app
 "
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={next}
-              isBlog={false}
-              title="Nextgen Property"
-              description="The app facilitates property listings, allowing developers to create new homes and offer them to potential buyers. It also supports investment opportunities, where developers pay to list and promote their projects. This platform streamlines the process of buying, selling, and investing in real estate, ensuring a seamless experience for all users."
-              ghLink="https://www.nextgenproperties.us/"
-              demoLink="https://www.nextgenproperties.us/"
             />
           </Col>
         </Row>
