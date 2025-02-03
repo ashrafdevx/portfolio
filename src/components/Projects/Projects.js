@@ -9,6 +9,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import Calendar from "../../Assets/Projects/Calendar.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import Stemsite from "../../Assets/Projects/Stemsite.png";
+import Simplexmed from "../../Assets/Projects/simplexmed.png";
 
 function Projects() {
   return (
@@ -64,6 +65,16 @@ function Projects() {
               description="I created a responsive and user-friendly website using Appwrite as the backend-as-a-service platform. The project includes a fully integrated login and signup system, leveraging Appwrite's APIs for authentication and real-time database management."
               ghLink="https://github.com/ashrafdevx/appwrite"
               demoLink="https://appwrite-theta.vercel.app/"
+            />
+          </Col>{" "}
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Simplexmed}
+              isBlog={false}
+              title="Simplexmed"
+              description="Simplexmed is a full-based medical company that helps healthcare providers with lower costs and increased revenue."
+              ghLink="http://web.obsidianrcm.com/"
+              demoLink="http://web.obsidianrcm.com/"
             />
           </Col>{" "}
           <Col md={4} className="project-card">
