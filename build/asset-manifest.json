@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.1f1b1fd4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/obsidian.png": "/static/media/obsidian.66a9bad69344ecb3ea97.png",
+    "static/media/next.png": "/static/media/next.d49d2175069bb11daff2.png",
+    "static/media/Stemsite.png": "/static/media/Stemsite.11364de83da1d5c389b6.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.ee7a8251ab41d3bb2725.png",
+    "static/media/simplexmed.png": "/static/media/simplexmed.e717fc10bcb283d52a5d.png",
+    "static/media/blog.png": "/static/media/blog.0de6c026878ac3cc2d17.png",
+    "static/media/Ashraf-React-Resume.pdf": "/static/media/Ashraf-React-Resume.e7ab5e79db96897d811d.pdf",
+    "static/media/Calendar.png": "/static/media/Calendar.2752facaaee68b742293.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/ashraf-Pic.jpeg": "/static/media/ashraf-Pic.677e4fc818daed14c424.jpeg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.1f1b1fd4.js.map": "/static/js/main.1f1b1fd4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.1f1b1fd4.js"
+  ]
+}

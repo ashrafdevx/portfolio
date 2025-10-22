@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
@@ -6,8 +6,13 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import { sendEvent, sendPageView } from "../utils/analytics";
 
 function About() {
+  useEffect(() => {
+    sendPageView("/about");
+    sendEvent("about_visit", "Navigation", "Visited About Page");
+  }, []);
   return (
     <Container fluid className="about-section">
       <Particle />
